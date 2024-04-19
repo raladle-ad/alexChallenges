@@ -1,3 +1,8 @@
+Make sure you run the following command once you clone my repo:
+sudo npm i
+
+The challenge:
+
 Test 1 : Ensure that the API correctly returns the current weather data when queried with a city name.
 Preconditions: Obtain a valid API key from OpenWeatherMap.
 Test Steps:
